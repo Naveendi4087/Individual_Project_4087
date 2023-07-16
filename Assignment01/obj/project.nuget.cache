@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "46pZiWEi4ewRK54LGPT25B0TI8gfnjIj/9qszjoF16hf66Qre1iDpur+hovOQalswR0nqsmVbqvUTNVvj7dMZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thashara\\Downloads\\Assignment01\\Assignment01\\Assignment01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thashara\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
